@@ -141,5 +141,28 @@ _____
 ______
 2015	:47822 CER
 ________
+ISSUANCE DATE: 04/08/2025
 
+QTY: 129238
+
+Vintage: 01/10/2022-31/12/2025
+__________
+Serial Number: 0001-000001-007922-UCR-CoU-IN-496-01102022-31122022
+
+Vintage Year: 2022
+
+Quantity: 7922
+____________
+Serial Number: 0001-007923-078130-UCR-CoU-IN-496-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 70208
+_________
+Serial Number: 0001-078131-129237-UCR-CoU-IN-496-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 51107
+___________
 
